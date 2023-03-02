@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "cmath": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "typeinfo": "c",
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "bit": "cpp",
+        "complex": "cpp",
+        "random": "cpp",
+        "new": "cpp",
+        "thread": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

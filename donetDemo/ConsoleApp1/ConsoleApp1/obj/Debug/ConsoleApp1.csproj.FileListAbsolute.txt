@@ -1,0 +1,8 @@
+C:\Users\24525\Desktop\CSPPT\系统能力综合培养\OCRdemo\donetDemo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\24525\Desktop\CSPPT\系统能力综合培养\OCRdemo\donetDemo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\24525\Desktop\CSPPT\系统能力综合培养\OCRdemo\donetDemo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\24525\Desktop\CSPPT\系统能力综合培养\OCRdemo\donetDemo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\24525\Desktop\CSPPT\系统能力综合培养\OCRdemo\donetDemo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\24525\Desktop\CSPPT\系统能力综合培养\OCRdemo\donetDemo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\24525\Desktop\CSPPT\系统能力综合培养\OCRdemo\donetDemo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\24525\Desktop\CSPPT\系统能力综合培养\OCRdemo\donetDemo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
