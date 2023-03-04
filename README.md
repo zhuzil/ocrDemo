@@ -4,7 +4,7 @@
 
 api接口文档地址如下：
 
-https://zhuzil.github.io/2023/03/02/yuque/OCR%E6%8E%A5%E5%8F%A3%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/ 《OCR接口使用文档》
+https://zhu-blog.netlify.app/ 《OCR接口使用文档》
 
 
 
