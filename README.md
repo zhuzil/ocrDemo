@@ -4,7 +4,7 @@
 
 api接口文档地址如下：
 
-https://zhu-blog.netlify.app/ 《OCR接口使用文档》
+https://zhu-blog.netlify.app/ 或者 https://zhuzil.github.io 《OCR接口使用文档》
 
 
 
